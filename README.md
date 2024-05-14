@@ -1,2 +1,2 @@
 # MLDL150
-This is a machine and deep learning course based on the andrew ng course on machine learning and deep learning on coursera.
+This is a course based on the andrew ng sir course on machine learning and deep learning on coursera and other resources on youtube.
